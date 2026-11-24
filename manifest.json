@@ -1,0 +1,16 @@
+{
+  "name": "Coaching Institute Manager",
+  "short_name": "Institute Manager",
+  "description": "Students, batches, attendance, fees and exams for a coaching institute",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ebebeb",
+  "theme_color": "#001b63",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
